@@ -2,7 +2,7 @@
 
 Java Backend & Integration Engineer with experience in Middleware, MFT systems, and enterprise application support.
 
-## 💻 Technologies & Skills
+## 💻 Technologies & Skills  
 
 - Java
 - Spring Boot
@@ -14,6 +14,7 @@ Java Backend & Integration Engineer with experience in Middleware, MFT systems, 
 - Cleo Harmony
 - Managed File Transfer (MFT)
 - Git
+- IBM Message Queue
 
 ## 🚀 Projects
 
@@ -34,7 +35,7 @@ Promotional website for a trading advisory platform.
 
 ## 📫 Connect With Me
 
-LinkedIn  
+LinkedIn    
 https://linkedin.com/in/mayank0403
 
 GitHub  
